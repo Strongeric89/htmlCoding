@@ -1,0 +1,227 @@
+
+body{
+margin: 0px;
+height:700px;
+background-image:url('cloudback1.jpg');
+background-position: centre centre
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+
+nav{
+margin-top:100px;
+margin-left: 100;
+margin: 5 auto;
+text-align: center;
+}
+
+.logo{
+margin-top:100px;
+}
+
+.navbar{
+color: purple;
+font-size: 25px;
+font-family:rosewood std,arial;
+text-decoration:none;
+}
+
+.navbar:hover{
+text-decoration: underline;
+color:green;
+}
+
+footer{
+background-color:#8585FF;
+margin-top:100px:
+}
+
+
+#foot{
+width:1000px;
+height: 100%
+margin: 0 auto;
+}
+
+div.social{
+float:left;
+margin-top:-70px;
+}
+
+a.social{
+margin-right:10px;
+}
+
+h1{
+color:purple;
+font-family:rosewood std,arial;}
+
+h2{
+color:white;
+font-family:rosewood std,arial;}
+
+div.slogan{
+float: center;
+margin-left:10px;
+border-width:1px:
+}
+
+
+div.contact{
+float: right;
+margin-right:10px;
+margin-top:10px;
+}
+
+label{
+color:black;
+
+}
+
+input.text{
+height: 15px;
+width:250px;}
+
+textarea.message{
+width:250px;
+}
+
+
+div.ratemybody{
+background-color:#8585FF;
+background-image:url("1.jpg");
+background-position: centre centre
+background-repeat:no-repeat;
+background-size:cover;
+align:center;
+float:center;
+text-align: left;
+padding:1px;;
+width:100%;
+background-color:cover;
+margin: 0px;
+border-style:dashed;
+border-color:white;
+border-width:5px;
+}
+  
+div.footernav{
+float:left;
+color: purple;
+font-size: 25px;
+font-family:rosewood std,arial;
+text-decoration:none;
+padding:5px;
+
+}
+
+
+
+legend.legendtitle{
+font-size:23px;
+font-family:rosewood std,arial;
+color:purple;
+border-style:solid;
+border-color:white;
+background-color:white;
+margin-left:1071px;
+}
+
+
+div.ratemyp1{
+
+border-style:groove;
+text-align:center;
+}
+
+div.questions{
+text-align:center;
+}
+
+div.inquestions{
+border-style:double;
+border-color:#580000 
+
+}
+
+
+
+
+
+div.contactbod{
+
+
+
+}
+
+div.messageforminbod{
+
+
+
+
+}
+
+p{
+font-family:chalkduster;
+font-size: 25px;
+}
+
+
+table{
+border-width:10;
+border-style:dotted;
+font-family:chalkduster;
+font-size: 25px;
+border-color:#580000;
+margin-left:10px;
+padding:20px;
+
+
+}
+
+
+
+
+div.homebox{
+
+border-style:double;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+border-radius:10px;
+border-shadow:5px 5px 10px;  
+
+
+
+}
+td{padding:50px;
+
+border-width:15px;
+border-shadow:5px;
+
+}
+
+
+
+th{padding:50px;
+
+border-width:20px;
+border-shadow:5px;
+
+}
+
+
+
+div.ordered{
+
+text-align:left;
+
+
+}
+
+
+
+
+}
